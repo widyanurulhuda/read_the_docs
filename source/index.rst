@@ -1,17 +1,13 @@
-.. Moil Meeting documentation master file, created by
-   sphinx-quickstart on Tue Sep  9 11:38:14 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Moil Meeting documentation
+Moil Meeting Documentation
 ==========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Moil Meeting is an innovative video conferencing solution that leverages MoilApp's high-quality fisheye image processing technology, a Moildev SDK-based program that specializes in processing fisheye images to produce panoramic and wide-angle (360°) views. Using a single fisheye camera, the system provides full room coverage and dynamic participant tracking features, thus offering a simpler, more flexible, and affordable alternative to traditional systems. 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents
 
+   release
+   definition_and_overview
+   installation
+   usage
